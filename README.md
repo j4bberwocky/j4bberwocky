@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @j4bberwocky
+- 👀 I’m interested in system design and solution architectures
+- 🌱 I’m currently learning GO!
