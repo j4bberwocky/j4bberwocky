@@ -4,15 +4,6 @@ I'm a Software Architect focused on building pragmatic, scalable, resilient, and
 
 I enjoy turning complexity into clarity and enabling teams to deliver with confidence.
 
-## 🧭 What I Do
-
-- Architecture design for distributed and event‑driven systems  
-- Cloud & DevOps (Azure, AWS, containers, CI/CD)  
-- API & integration design (REST, messaging, event streaming)
-- Empower teams through autonomy
-- Software engineering practices (clean code, refactoring, performance)  
-- Technical leadership and architectural guidance  
-
 ## 🧩 Architectural Philosophy
 
 I view architecture as a dynamic balance between **Pragmatism** and **Evolution**. My goal is to help and enpower teams to build solutions that deliver value today without compromising the ability to change tomorrow.
